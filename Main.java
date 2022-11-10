@@ -1,4 +1,4 @@
-package diziElemanliarininFrekansı;
+package diziElemanliarininFrekansÃ½;
 
 import java.util.Arrays;
 
@@ -19,7 +19,7 @@ public class Main {
 				}				
 			
 			}
-			System.out.println(array[i]+" sayısı dizi içerinde "+counter+" kere tekrar etmektedir.");
+			System.out.println(array[i]+" sayÄ±sÄ± dizi iÃ§erinde "+counter+" kere tekrar etmektedir.");
 			i+=counter-1;
 		
 		}
